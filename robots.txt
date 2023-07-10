@@ -1,0 +1,4 @@
+User-agent: *
+Disallow:
+
+Sitemap: https://IHEP-LQCD.github.io/sitemap.xml
