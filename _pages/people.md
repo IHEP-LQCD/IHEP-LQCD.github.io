@@ -50,9 +50,27 @@ Computing Center, Institute of High Energy Physics
 </div>
 
 #### Graduate students
-* Chunjiang Shi
-* Siyang Chen
-* etc.
+
+<div class="row mt-3">
+    <div class="col-sm mt-3 mt-md-0">
+        {% include figure.html path="assets/img/shichunjiang.jpg" class="img-fluid rounded z-depth-1" %}
+        <div class="caption">
+            Chunjiang Shi (施春江), advisor: Ying Chen
+        </div>
+    </div>
+    <div class="col-sm mt-3 mt-md-0">
+        {% include figure.html path="assets/img/chensiyang.jpg" class="img-fluid rounded z-depth-1" %}
+        <div class="caption">
+            Siyang Chen (陈斯阳), advisor: Ying Chen
+        </div>
+    </div>
+    <div class="col-sm mt-3 mt-md-0">
+        {% include figure.html path="assets/img/wangtingxiao.jpeg" class="img-fluid rounded z-depth-1" %}
+        <div class="caption">
+            Tingxiao Wang (王庭霄), advisor: Zhaofeng Liu
+        </div>
+    </div>
+</div>
 
 #### Former graduate students and postdocs
 
