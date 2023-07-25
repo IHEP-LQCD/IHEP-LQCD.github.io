@@ -12,19 +12,19 @@ nav_order: 1
 Theoretical Physics Division, Institute of High Energy Physics
 <div class="row mt-3">
     <div class="col-sm mt-3 mt-md-0">
-        {% include figure.html path="assets/img/chenying.jpeg" class="img-fluid rounded z-depth-1" %}
+        {% include figure.html path="assets/img/people/chenying.jpeg" class="img-fluid rounded z-depth-1" %}
         <div class="caption">
             <a href="https://inspirehep.net/authors/1013841?ui-citation-summary=true">Ying Chen (陈莹)</a>
         </div>
     </div>
     <div class="col-sm mt-3 mt-md-0">
-        {% include figure.html path="assets/img/liuzhaofeng.jpeg" class="img-fluid rounded z-depth-1" %}
+        {% include figure.html path="assets/img/people/liuzhaofeng.jpeg" class="img-fluid rounded z-depth-1" %}
         <div class="caption">
             <a href="https://inspirehep.net/authors/1042254?ui-citation-summary=true">Zhaofeng Liu (刘朝峰)</a>
         </div>
     </div>
     <div class="col-sm mt-3 mt-md-0">
-        {% include figure.html path="assets/img/gongming.jpeg" class="img-fluid rounded z-depth-1" %}
+        {% include figure.html path="assets/img/people/gongming.jpeg" class="img-fluid rounded z-depth-1" %}
         <div class="caption">
             <a href="https://inspirehep.net/authors/1026982?ui-citation-summary=true">Ming Gong (宫明)</a>
         </div>
@@ -34,13 +34,13 @@ Theoretical Physics Division, Institute of High Energy Physics
 Computing Center, Institute of High Energy Physics
 <div class="row mt-3">
     <div class="col-sm mt-3 mt-md-0">
-        {% include figure.html path="assets/img/biyujiang.jpeg" class="img-fluid rounded z-depth-1" %}
+        {% include figure.html path="assets/img/people/biyujiang.jpeg" class="img-fluid rounded z-depth-1" %}
         <div class="caption">
             <a href="https://inspirehep.net/authors/1881084?ui-citation-summary=true">Yujiang Bi (毕玉江)</a>
         </div>
     </div>
     <div class="col-sm mt-3 mt-md-0">
-        {% include figure.html path="assets/img/sunwei.jpeg" class="img-fluid rounded z-depth-1" %}
+        {% include figure.html path="assets/img/people/sunwei.jpeg" class="img-fluid rounded z-depth-1" %}
         <div class="caption">
             <a href="https://inspirehep.net/authors/1481242?ui-citation-summary=true">Wei Sun (孙玮)</a>
         </div>
@@ -53,19 +53,19 @@ Computing Center, Institute of High Energy Physics
 
 <div class="row mt-3">
     <div class="col-sm mt-3 mt-md-0">
-        {% include figure.html path="assets/img/shichunjiang.jpg" class="img-fluid rounded z-depth-1" %}
+        {% include figure.html path="assets/img/people/shichunjiang.jpg" class="img-fluid rounded z-depth-1" %}
         <div class="caption">
             Chunjiang Shi (施春江), advisor: Ying Chen
         </div>
     </div>
     <div class="col-sm mt-3 mt-md-0">
-        {% include figure.html path="assets/img/chensiyang.jpg" class="img-fluid rounded z-depth-1" %}
+        {% include figure.html path="assets/img/people/chensiyang.jpg" class="img-fluid rounded z-depth-1" %}
         <div class="caption">
             Siyang Chen (陈斯阳), advisor: Ying Chen
         </div>
     </div>
     <div class="col-sm mt-3 mt-md-0">
-        {% include figure.html path="assets/img/wangtingxiao.jpeg" class="img-fluid rounded z-depth-1" %}
+        {% include figure.html path="assets/img/people/wangtingxiao.jpeg" class="img-fluid rounded z-depth-1" %}
         <div class="caption">
             Tingxiao Wang (王庭霄), advisor: Zhaofeng Liu
         </div>

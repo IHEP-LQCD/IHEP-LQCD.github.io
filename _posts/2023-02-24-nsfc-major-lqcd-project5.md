@@ -17,7 +17,7 @@ related_posts: false
 在下午的讨论中，大家针对计划中需要攻关的技术难点展开了热烈的讨论。在讨论后，课题组与北航的栾钟治研究团队建立了关于格点软件框架研发的合作意向；课题组与中科院网络中心的徐顺、张克龙研究团队建立了关于格点算法代码研发的合作意向。
  <div class="row mt-3">
     <div class="col-sm mt-1 mt-md-0">
-        {% include figure.html path="assets/img/lattice-major-funding-project5.jpg" class="img-fluid rounded z-depth-1" zoomable=true %}
+        {% include figure.html path="assets/img/post/lattice-major-funding-project5.jpg" class="img-fluid rounded z-depth-1" zoomable=true %}
     </div>
 </div>
 <div class="caption">
