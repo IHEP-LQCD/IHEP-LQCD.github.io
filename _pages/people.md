@@ -49,6 +49,8 @@ Computing Center, Institute of High Energy Physics
     </div>
 </div>
 
+------
+
 #### Graduate students
 
 <div class="row mt-3">
@@ -71,6 +73,25 @@ Computing Center, Institute of High Energy Physics
         </div>
     </div>
 </div>
+
+------
+
+#### Postdoctoral researchers
+
+<div class="row mt-3">
+    <div class="col-sm mt-3 mt-md-0">
+        {% include figure.html path="assets/img/people/ligeng.jpg" class="img-fluid rounded z-depth-1" %}
+        <div class="caption">
+            Geng Li (李更), supervisor: Ying Chen
+        </div>
+    </div>
+    <div class="col-sm mt-3 mt-md-0">
+    </div>
+    <div class="col-sm mt-3 mt-md-0">
+    </div>
+</div>
+
+------
 
 #### Former graduate students and postdocs
 
